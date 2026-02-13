@@ -8,11 +8,11 @@ export function HeroSection() {
         <div className="space-y-4 animate-in-left">
           <div className="space-y-2">
             <h1 className="text-4xl md:text-5xl font-bold text-white drop-shadow-lg animate-stagger-1">
-              SiMungil
+              E-Gizi
             </h1>
-            <p className="text-lg text-white drop-shadow-md animate-stagger-2">
-              <span className="font-semibold">Sistem Informasi Monitoring Gizi Ideal</span> untuk kesehatan anak Indonesia
-            </p>
+            {/* <p className="text-lg text-white drop-shadow-md animate-stagger-2">
+              <span className="font-semibold">Sistem Informasi Monitoring Gizi</span> untuk kesehatan anak Indonesia
+            </p> */}
           </div>
 
           <div className="space-y-3 pt-4">

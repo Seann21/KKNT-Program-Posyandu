@@ -108,7 +108,7 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
             {/* About */}
             <div>
-              <h3 className="font-semibold text-foreground mb-3">Tentang SiMungil</h3>
+              <h3 className="font-semibold text-foreground mb-3">Tentang E-Gizi</h3>
               <p className="text-md text-muted-foreground">
                 Aplikasi web untuk monitoring kesehatan dan gizi anak di Indonesia sebagai bagian dari program KKN.
               </p>
@@ -138,7 +138,7 @@ export default function Home() {
           </div>
 
           <div className="border-t border-border pt-5 pb-4 text-center text-sm text-muted-foreground">
-            <p>© 2026 SiMungil - Sistem Informasi Monitoring Gizi Anak. All rights reserved.</p>
+            <p>© 2026 E-Gizi - Sistem Informasi Monitoring Gizi Anak. All rights reserved.</p>
             <p className="mt-2">Program Kuliah Kerja Nyata (KKN) Kelompok 25 </p>
           </div>
         </div>

@@ -48,7 +48,7 @@ export function LogoSection() {
           {/* Right: Title */}
           <div className="flex-1 text-right text-slate-700">
             <h1 className="text-xl sm:text-2xl font-bold bg-linear-to-r from-white to-teal-800 bg-clip-text text-transparent">
-              SiMungil
+              E-Gizi
             </h1>
             <p className="text-[10px] sm:text-xs text-slate-500 italic">Monitoring Gizi & Stunting</p>
           </div>
