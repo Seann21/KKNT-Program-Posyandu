@@ -21,7 +21,7 @@ export function LogoSection() {
             <div className="hidden sm:block w-px h-8 bg-primary/20" />
 
             {/* Logo Kampus */}
-            <div className="shrink-0 w-10 h-10 sm:w-12 sm:h-12 relative">
+            <div className="shrink-0 w-8 h-8 sm:w-12 sm:h-12 relative">
               <Image
                 src="/unp.png"
                 alt="Logo Kampus"
@@ -33,15 +33,14 @@ export function LogoSection() {
             {/* Divider */}
             <div className="hidden sm:block w-px h-8 bg-primary/20" />
 
-            {/* Logo SiMungil - UKURAN DIPERBESAR DI SINI */}
-            <div className="shrink-0 w-16 h-16 sm:w-24 sm:h-24 relative"> 
-              <Image
-                src="/appp.png"
-                alt="Logo SiMungil"
-                fill
-                priority // Tambahkan priority karena ini logo utama
-                className="object-contain" // Pakai contain supaya lingkaran logonya tidak terpotong
-              />  
+            {/* Logo e-gizi */}
+          <div className="shrink-0 w-16 h-16 sm:w-12 sm:h-12 relative">
+         <Image
+          src="/e-gizi.png"
+          alt="Logo e-gizi"
+          fill
+          priority
+         className="object-contain" />
             </div>
           </div>
 

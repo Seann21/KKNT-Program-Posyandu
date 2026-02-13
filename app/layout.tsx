@@ -8,7 +8,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'SiMungil - Kalkulator Gizi & Stunting Checker',
+  title: 'E-Gizi - Kalkulator Gizi & Stunting Checker',
   description: 'Aplikasi web untuk memantau gizi dan pertumbuhan anak. Periksa status gizi dan stunting anak Anda dengan mudah.',
   generator: 'v0.app',
   icons: {
