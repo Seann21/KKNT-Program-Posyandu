@@ -78,7 +78,7 @@ export default function Home() {
                   <h2 className="text-2xl md:text-3xl font-bold text-foreground">Panduan Lengkap Gizi & Stunting</h2>
                   <button
                     onClick={() => setViewState('home')}
-                    className="px-4 py-2 rounded-lg bg-muted hover:bg-muted/80 text-foreground font-medium transition-colors"
+                    className="px-4 py-2 rounded-lg text-foreground font-semibold transition-colors cursor-pointer bg-white hover:bg-emerald-500 hover:text-white"
                   >
                     ← Kembali
                   </button>
